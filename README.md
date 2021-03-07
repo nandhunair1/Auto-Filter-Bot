@@ -18,9 +18,9 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![MrC《》VENOM](https://img.shields.io/badge/MrC_VENOM-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TV_SERIES_ON)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![MrC《》VENOM](https://img.shields.io/badge/MrC_VENOM-Support-red?style=flat&logo=telegram)](https://telegram.dog/tvseriezzz)  [![MrC《》VENOM](https://img.shields.io/badge/MrC_VENOM-Website-red?style=flat&logo=CodersRank)](https://nandhunair1.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot)
 
