@@ -43,9 +43,9 @@
 
 [Click here to see tutorial video](https://youtu.be/KQVYQAOsFYY)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [Group](https://telegram.dog/tvseriezzz) and [MrC《》VENOM](https://telegram.dog/MrC_VENOM) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [Channel](https://telegram.dog/TV_SERIES_ON)
 
 
 ## Installation
